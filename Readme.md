@@ -1,0 +1,1 @@
+Esse sera um projeto simples para o treinamento do Git.
